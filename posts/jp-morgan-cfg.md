@@ -1,6 +1,7 @@
 ---
 title: 'Code for Good 2022 by JP Morgan'
-date: '04-08-2022'
+# date format: 'YYYY-MM-DD'
+date: '2022-04-08'
 ---
 
 (SPOILER) This was one of the most amazing moments of my life. Excitment. Joy. Frustration. Nervousness.
